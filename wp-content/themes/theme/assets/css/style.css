@@ -1,0 +1,64 @@
+.entry-content {
+  margin: 0;
+}
+
+.fw-iconbox {
+  display: inline-block;
+  padding: 0 !important;
+  margin-right: 28px;
+}
+
+.fw-iconbox:last-child {
+  margin-right: 0;
+}
+
+.fw-iconbox-image {
+  font-size: 11px !important;
+  width: 11px !important;
+  margin-right: 10px;
+}
+
+.fw-iconbox-aside {
+  margin: 0 !important;
+  display: inline-block !important;
+  font-size: 12px;
+}
+
+.fw-iconbox-title {
+  display: none;
+}
+
+.fw-iconbox-text {
+  font-family: 'Source Sans Pro';
+  font-weight: 400;
+  margin-top: 12px;
+  color: #506a85;
+}
+
+.fw-iconbox-text a {
+  color: #506a85;
+  cursor: pointer;
+}
+
+.fw-iconbox-text a:hover {
+  color: #00bc9c;
+}
+
+.fa-envelope-o {
+  width: 11px !important;
+  font-size: 11px !important;
+  line-height: 11px !important;
+  color: #506a85 !important;
+  margin-top: 15px;
+  margin-right: 8px !important;
+}
+
+.fa-tablet {
+  height: 13px !important;
+  font-size: 13px !important;
+  line-height: 13px !important;
+  color: #506a85 !important;
+  margin-top: 15px;
+  margin-right: -2px !important;
+}
+/*# sourceMappingURL=style.css.map */

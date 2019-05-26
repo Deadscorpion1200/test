@@ -20,7 +20,7 @@
 			<h3><?php echo $atts['title']; ?></h3>
 		</div>
 		<div class="fw-iconbox-text">
-			<p><?php echo $atts['content']; ?></p>
+			<?php echo $atts['content']; ?>
 		</div>
 	</div>
 </div>
